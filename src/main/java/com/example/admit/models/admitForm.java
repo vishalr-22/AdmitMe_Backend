@@ -1,4 +1,4 @@
-package com.example.backendadmitme.models;
+package com.example.admit.models;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Field;

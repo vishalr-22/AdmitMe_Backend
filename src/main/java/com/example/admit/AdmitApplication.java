@@ -1,13 +1,13 @@
-package com.example.backendadmitme;
+package com.example.admit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendadmitmeApplication {
+public class AdmitApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendadmitmeApplication.class, args);
+		SpringApplication.run(AdmitApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.example.backendadmitme.controllers;
+package com.example.admit.controllers;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.backendadmitme.models.admitForm;
-import com.example.backendadmitme.repositories.AdmitFormRepository;
+import com.example.admit.models.admitForm;
+import com.example.admit.repositories.AdmitFormRepository;
 import java.util.Random;
 
 @RestController
